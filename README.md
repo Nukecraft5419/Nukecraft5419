@@ -18,5 +18,8 @@
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/javascript.png' height='128px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/typescript.png' height='128px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/nodejs.png' height='128px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/php.png' height='128px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/bootstrap.png' height='128px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/angularjs.png' height='128px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/react.png' height='128px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/flutter.png' height='128px'/>
 </p>
