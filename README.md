@@ -6,4 +6,7 @@
 
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
-<p align="center"><b>Coming Soon</b></p>
+
+<img align="center">
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/java.png'/>
+</p>
