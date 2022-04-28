@@ -8,18 +8,18 @@
 <p align="center">A summary of my programming skills.</p>
 
 <p align="center">
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/java.png' height='128px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/c++.png' height='128px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/c-sharp.png' height='128px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/swift.png' height='128px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/python.png' height='128px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/html.png' height='128px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/css3.png' height='128px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/javascript.png' height='128px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/typescript.png' height='128px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/nodejs.png' height='128px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/bootstrap.png' height='128px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/angularjs.png' height='128px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/react.png' height='128px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/flutter.png' height='128px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/java.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/c++.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/c-sharp.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/swift.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/python.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/html.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/css3.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/javascript.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/typescript.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/nodejs.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/bootstrap.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/angularjs.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/react.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/flutter.png' height='64px'/>
 </p>
