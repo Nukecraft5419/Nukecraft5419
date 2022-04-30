@@ -1,5 +1,7 @@
 # BIO
 
+Hi, I'am Nukecraft5419
+
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most important projects.</p>
 <p align="center"><b>Coming Soon</b></p>
