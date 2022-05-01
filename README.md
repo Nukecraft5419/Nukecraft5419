@@ -20,10 +20,13 @@ Hi, I'am Nukecraft5419
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/sass.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/javascript.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/typescript.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/npm.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/nodejs.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/vuejs.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/bootstrap.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/angularjs.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/react.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/dart.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/flutter.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/blender.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/unreal-engine.png' height='64px'/>
@@ -31,3 +34,4 @@ Hi, I'am Nukecraft5419
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/mariadb.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/mysql.png' height='64px'/>
 </p>
+# Nukecraft5419
