@@ -34,4 +34,3 @@ Hi, I'am Nukecraft5419
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/mariadb.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/mysql.png' height='64px'/>
 </p>
-# Nukecraft5419
