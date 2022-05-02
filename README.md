@@ -10,7 +10,7 @@ Hi, I'am Nukecraft5419
 <p align="center">A summary of my programming skills.</p>
 
 <p align="center">
-<table>
+<table width="auto">
   <tr>
     <td>
     <a href="" target="_blank" align="center" align="center">
