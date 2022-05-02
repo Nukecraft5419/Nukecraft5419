@@ -20,7 +20,6 @@ Hi, I'am Nukecraft5419
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/sass.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/bootstrap.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/javascript.png' height='64px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/jquery.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/typescript.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/angularjs.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/php.png' height='64px'/>
