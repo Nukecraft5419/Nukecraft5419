@@ -25,7 +25,7 @@ Hi, I'am Nukecraft5419
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/vuejs.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/bootstrap.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/angularjs.png' height='64px'/>
-<a href="https://reactjs.org/" target="_blank">
+<a href="https://reactjs.org/" target="_self">
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/react.png' height='64px'/>
 </a>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/dart.png' height='64px'/>
