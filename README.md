@@ -12,9 +12,8 @@ Hi, I'am Nukecraft5419
 <div>
 <p align="center">
 
-
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/java.png' height='64px'/>
 <a href="" target="_blank">
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/java.png' height='64px'/>
 <h4>Java</h4>
 </a>
 <a href="" target="_blank">
