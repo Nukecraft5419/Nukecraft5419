@@ -60,6 +60,7 @@ Hi, I'am Nukecraft5419
     <h4>SASS</h4>
     </a>
     </td>
+    <tr>
     <td>
     <a href="" target="_blank" align="center">
     <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/javascript.png' height='64px'/>
@@ -85,10 +86,6 @@ Hi, I'am Nukecraft5419
     <a>
     </td>
     </tr>
-    <tr>
-    <td>Cell C</td>
-    <td>Cell D</td>
-  </tr>
 </table>
 
 <a href="" target="_blank" align="center">
