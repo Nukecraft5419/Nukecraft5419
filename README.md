@@ -12,7 +12,7 @@ Hi, I'am Nukecraft5419
 <p align="center">
 <table width="auto">
   <tr>
-    <td>
+    <td align="center">
     <a href="" target="_blank" align="center">
     <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/master/skills/java.png' height='64px'/>
     <h4>Java</h4>
