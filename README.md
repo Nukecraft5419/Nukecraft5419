@@ -24,15 +24,17 @@ Hi, I'am Nukecraft5419
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/angularjs.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/php.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/sql.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/cloudflare.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/mysql.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/mariadb.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/mongodb.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/npm.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/nodejs.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/vuejs.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/react.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/redis.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/dart.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/flutter.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/blender.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/unreal-engine.png' height='64px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/cloudflare.png' height='64px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/mariadb.png' height='64px'/>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/mysql.png' height='64px'/>
 </p>
