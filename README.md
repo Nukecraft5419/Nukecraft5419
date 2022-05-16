@@ -2,11 +2,11 @@
 
 Hi, I'am Nukecraft5419
 
-<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/project.png' height='64px'/>Projects</h2>
+<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/project.png' height='32px'/>Projects</h2>
 <p align="center">Take a look at my most important projects.</p>
 <p align="center"><b>Coming Soon</b></p>
 
-<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/development-skill.png' height='64px'/>Skills</h2>
+<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/development-skill.png' height='48px'/>Skills</h2>
 <p align="center">Take a look at my collection of programming skills.</p>
 
 <p align="center">
