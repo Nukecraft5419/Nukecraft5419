@@ -2,7 +2,7 @@
 
 Hi, I'am Nukecraft5419
 
-<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/project.png' height='32px'/>Projects</h2>
+<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/project.png' height='38px'/>Projects</h2>
 <p align="center">Take a look at my most important projects.</p>
 <p align="center"><b>Coming Soon</b></p>
 
@@ -40,6 +40,6 @@ Hi, I'am Nukecraft5419
 </p>
 
 
-<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/bookcase.png' height='32px'/>Bookcase</h2>
+<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/bookcase.png' height='38px'/>Bookcase</h2>
 <p align="center">Take a look at my collection of favourite books I have read.</p>
 <p align="center"><b>Coming Soon</b></p>
