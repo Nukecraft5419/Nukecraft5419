@@ -6,7 +6,7 @@ Hi, I'am Nukecraft5419
 <p align="center">Take a look at my most important projects.</p>
 <p align="center"><b>Coming Soon</b></p>
 
-<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/development-skill.png' height='48px'/>Skills</h2>
+<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/development-skill.png' height='32px'/>Skills</h2>
 <p align="center">Take a look at my collection of programming skills.</p>
 
 <p align="center">
@@ -40,6 +40,7 @@ Hi, I'am Nukecraft5419
 </p>
 
 
-<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/project.png' height='64px'/>Book Shelf</h2>
+<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/books.png' height='32px'/>Book Shelf</h2>
+<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/book-shelf.png' height='32px'/>Book Shelf</h2>
 <p align="center">Take a look at my collection of favourite books I have read.</p>
 <p align="center"><b>Coming Soon</b></p>
