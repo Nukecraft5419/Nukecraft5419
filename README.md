@@ -1,8 +1,14 @@
 <img align='left' src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/logo/working-with-a-laptop.png' width='20%'>
-<img align='right' src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/logo/console.png' width='20%'>  
+<img align='right' src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/logo/console.png' width='20%'>
 
 # BIO
-Hi, I'm Nukecraft5419 I'm 19 years old and I'm a Full-Stack developer take a look at some of my # Projects and # Skills and more.
+
+Hi, I'm Nukecraft5419 I'm 19 years old and I'm a Full-Stack developer take a look at some of my Projects and Skills and more.
+
+Gamer, <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/bitcoin.png' height='32px'/> Crypto, <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ethereum.png' height='32px'/> NFTs, 🔒 Security, ☁️ Networking, <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/laptop.png' height='32px'/> FullStack.  
+  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=55A630&center=true&vCenter=true&width=820&height=120&lines=Coding+for+a+better+and+free+future+for+all.+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/project.png' height='38px'/>Projects</h2>
 <p align="center">Take a look at my most important projects.</p>
