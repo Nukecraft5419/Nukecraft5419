@@ -2,12 +2,12 @@
 
 Hi, I'am Nukecraft5419
 
-<h2 align="center">Projects</h2>
+<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/project.png' height='64px'/>Projects</h2>
 <p align="center">Take a look at my most important projects.</p>
 <p align="center"><b>Coming Soon</b></p>
 
-<h2 align="center">Skills</h2>
-<p align="center">A collection of my programming skills.</p>
+<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/development-skill.png' height='64px'/>Skills</h2>
+<p align="center">Take a look at my collection of programming skills.</p>
 
 <p align="center">
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/java.png' height='64px'/>
@@ -38,3 +38,8 @@ Hi, I'am Nukecraft5419
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/unreal-engine.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/blender.png' height='64px'/>
 </p>
+
+
+<h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/project.png' height='64px'/>Book Shelf</h2>
+<p align="center">Take a look at my collection of favourite books I have read.</p>
+<p align="center"><b>Coming Soon</b></p>
