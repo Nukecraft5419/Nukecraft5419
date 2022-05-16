@@ -1,6 +1,6 @@
 # BIO
 
-Hi, I'am Nukecraft5419
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/logo/working-with-a-laptop.png' height='96px'/> Hi, I'm Nukecraft5419 I'm 19 years old and I'm a Full-Stack developer take a look at some of my # Projects and # Skills and more. <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/logo/console.png' height='96px'/>
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/project.png' height='38px'/>Projects</h2>
 <p align="center">Take a look at my most important projects.</p>
