@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles/logo.sass">
 <img align='left' src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/logo/working-with-a-laptop.png' width='20%'>
 <img align='right' src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/logo/console.png' width='20%'>
 
@@ -5,8 +6,42 @@
 
 Hi, I'm Nukecraft5419 I'm 19 years old and I'm a Full-Stack developer take a look at some of my Projects and Skills and more.
 
-Gamer, <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/bitcoin.png' height='32px'/> Crypto, <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ethereum.png' height='32px'/> NFTs, 🔒 Security, ☁️ Networking, <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/laptop.png' height='32px'/> FullStack.  
+<p align="center">
   
+<span style = 'line-height: 20px'>
+  <img src = 'https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/bitcoin.png' height='24px' style='vertical-align: middle' /> Crypto
+</span>
+
+<span style = 'line-height: 20px'>
+  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ethereum.png' height='24px' style='vertical-align: middle'/> NFTs
+</span>
+
+<span style = 'line-height: 20px'>
+  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ethereum.png' height='24px' style='vertical-align: middle'/> NFTs
+</span>
+
+<span style = 'line-height: 20px'>
+  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ethereum.png' height='24px' style='vertical-align: middle'/> NFTs,
+</span>
+
+<span style = 'line-height: 20px'>
+  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ethereum.png' height='24px' style='vertical-align: middle'/> Security,
+</span>
+
+<span style = 'line-height: 20px'>
+  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ethereum.png' height='24px' style='vertical-align: middle'/> Networking,
+</span>
+
+<span style = 'line-height: 20px'>
+  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/laptop.png' height='24px' style='vertical-align: middle'/> FullStack.
+</span>
+<span class="yourtext">
+  Home
+</span>
+  
+</p>
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=55A630&center=true&vCenter=true&width=820&height=120&lines=Coding+for+a+better+and+free+future+for+all.+%F0%9F%92%BB)](https://git.io/typing-svg)
 
