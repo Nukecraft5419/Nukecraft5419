@@ -40,6 +40,10 @@ Hi, I'm Nukecraft5419 I'm 19 years old and I'm a Full-Stack developer take a loo
 </span>
 
 <span style = 'line-height: 20px'>
+  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/open-source.png' height='24px' style='vertical-align: middle'/>Open Source,
+</span>
+
+<span style = 'line-height: 20px'>
   <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/security-lock.png' height='24px' style='vertical-align: middle'/>Security,
 </span>
 
