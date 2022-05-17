@@ -8,43 +8,43 @@ Hi, I'm Nukecraft5419 I'm 19 years old and I'm a Full-Stack developer take a loo
 <p align="center">
 
 <span style = 'line-height: 20px'>
-  <img src = 'https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/bitcoin.png' height='24px' style='vertical-align: middle' /> Investor,
+  <img src = 'https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/analytics.png' height='24px' style='vertical-align: middle' /> Investor, 
 </span>
 
 <span style = 'line-height: 20px'>
-  <img src = 'https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/bitcoin.png' height='24px' style='vertical-align: middle' /> Crypto,
+  <img src = 'https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/bitcoin.png' height='24px' style='vertical-align: middle' /> Crypto, 
 </span>
 
 <span style = 'line-height: 20px'>
-  <img src = 'https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/game-controller.png' height='24px' style='vertical-align: middle' /> Gamer,
+  <img src = 'https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/game-controller.png' height='24px' style='vertical-align: middle' /> Gamer, 
 </span>
 
 <span style = 'line-height: 20px'>
-  <img src = 'https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/minecraft-skeleton.png' height='24px' style='vertical-align: middle' /> Gamer,
+  <img src = 'https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/minecraft-skeleton.png' height='24px' style='vertical-align: middle' /> Minecraft Development of mods and plugins, 
 </span>
 
 <span style = 'line-height: 20px'>
-  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/vegan-symbol.png' height='24px' style='vertical-align: middle'/> Vegan,
+  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/vegan-symbol.png' height='24px' style='vertical-align: middle'/> Vegan, 
 </span>
 
 <span style = 'line-height: 20px'>
-  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/natural-food.png' height='24px' style='vertical-align: middle'/> Vegan,
+  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/blockchain-new-logo.png' height='24px' style='vertical-align: middle'/> Metaverse, 
 </span>
 
 <span style = 'line-height: 20px'>
-  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/blockchain-new-logo.png' height='24px' style='vertical-align: middle'/> Metaverse,
+  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ethereum.png' height='24px' style='vertical-align: middle'/> NFTs, 
 </span>
 
 <span style = 'line-height: 20px'>
-  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ethereum.png' height='24px' style='vertical-align: middle'/> NFTs,
+  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/security-lock.png' height='24px' style='vertical-align: middle'/> Security, 
 </span>
 
 <span style = 'line-height: 20px'>
-  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ethereum.png' height='24px' style='vertical-align: middle'/> Security,
+  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/privacy.png' height='24px' style='vertical-align: middle'/> Privacy, 
 </span>
 
 <span style = 'line-height: 20px'>
-  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ethereum.png' height='24px' style='vertical-align: middle'/> Networking,
+  <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/cloud.png' height='24px' style='vertical-align: middle'/> Networking, 
 </span>
 
 <span style = 'line-height: 20px'>
