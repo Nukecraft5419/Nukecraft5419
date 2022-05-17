@@ -6,10 +6,9 @@
 Hi, I'm Nukecraft5419 I'm 19 years old and I'm a Full-Stack developer take a look at some of my Projects and Skills and more.
 
 <br>
-<br>
 
 <p align="center">
-<ul align="middle">
+<ul>
 <li><span style = 'line-height: 20px'>
   <img src = 'https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/analytics.png' height='24px' style='vertical-align: middle' /> Investor
 </span></li>
@@ -56,7 +55,10 @@ Hi, I'm Nukecraft5419 I'm 19 years old and I'm a Full-Stack developer take a loo
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/project.png' height='38px'/>Projects</h2>
 <p align="center">Take a look at my most important projects.</p>
-<p align="center"><b>Coming Soon</b></p>
+
+<p align="center">
+<b>Coming Soon</b>
+</p>
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/development-skill.png' height='38px'/>Skills</h2>
 <p align="center">Take a look at my collection of programming skills.</p>
@@ -98,7 +100,10 @@ Hi, I'm Nukecraft5419 I'm 19 years old and I'm a Full-Stack developer take a loo
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/bookcase.png' height='38px'/>Bookcase</h2>
 <p align="center">Take a look at my collection of favourite books I have read.</p>
-<p align="center"><b>Coming Soon</b></p>
+
+<p align="center">
+<b>Coming Soon</b>
+</p>
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/push-pin.png' height='38px'/>Pinned Repositories</h2>
 <p align="center">Take a look at my most important repositories.</p>
