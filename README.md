@@ -92,6 +92,7 @@ Hi, I'm Nukecraft5419 I'm 19 years old and I'm a Full-Stack developer take a loo
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/dart.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/flutter.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/unreal-engine.png' height='64px'/>
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/blender.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/github.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/git.png' height='64px'/>
 <img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/visual-studio-code-2019.png' height='64px'/>
