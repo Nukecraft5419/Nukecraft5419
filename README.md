@@ -5,8 +5,6 @@
 
 Hi, I'm Nukecraft5419 I'm 19 years old and I'm a Full-Stack developer take a look at some of my Projects and Skills and more.
 
-<br>
-
 <p align="center">
 <ul>
 <li><span style = 'line-height: 20px'>
