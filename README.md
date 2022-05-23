@@ -48,7 +48,7 @@ Hi, I'm Nukecraft5419 I'm 19 years old and I'm a Full-Stack developer, have a lo
 </li>
 <li>
 <span style = 'line-height: 20px'>
-<img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ethereum.png' height='24px' style='vertical-align: middle'/> NFTs
+<img src='https://raw.githubusercontent.com/Nukecraft5419/Nu kecr aft5419/main/skills/ethereum.png' height='24px' style='vertical-align: middle'/> NFTs
 </span>
 </li>
 <li>
@@ -83,9 +83,9 @@ Hi, I'm Nukecraft5419 I'm 19 years old and I'm a Full-Stack developer, have a lo
 <h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/project.png' height='38px'/>Projects</h2>
 <p align="center">Take a look at my most important projects.</p>
 
-<p align="center">
-<b>Coming Soon</b>
-</p>
+| <a href="https://github.com/Nukecraft5419/DigitalClock" target="_blank">**Digital Clock**</a>
+| :---:
+<img align='center' src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/projects/digital-clock.png.png' width="100px"  height='100px'>
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/development-skill.png' height='38px'/>Skills</h2>
 <p align="center">Take a look at my collection of programming skills.</p>
