@@ -123,6 +123,8 @@ Hi, I"m Nukecraft5419 I"m 19 years old and I"m a Full-Stack developer, have a lo
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/visual-studio-code-2019.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/trello.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/slack-new.png" height="64px"/>
+<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/figma.png" height="64px"/>
+<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/lunacy.png" height="64px"/>
 </p>
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/bookcase.png" height="38px"/>Bookcase</h2>
