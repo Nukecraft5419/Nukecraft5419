@@ -48,7 +48,7 @@ Hi, I"m Nukecraft5419 I"m 19 years old and I"m a Full-Stack developer, have a lo
 </li>
 <li>
 <span style = "line-height: 20px">
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nu kecr aft5419/main/skills/ethereum.png" height="24px" style="vertical-align: middle"/> NFTs
+<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ethereum.png" height="24px" style="vertical-align: middle"/> NFTs
 </span>
 </li>
 <li>
