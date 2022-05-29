@@ -78,7 +78,6 @@ Hi, I"m Nukecraft5419 I"m 19 years old and I"m a Full-Stack developer, have a lo
 </li>
 </ul>
 </div>
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=55A630&center=true&vCenter=true&width=820&height=120&lines=Coding+for+a+better+and+free+future+for+all.+%F0%9F%92%BB)](https://git.io/typing-svg)
 
@@ -89,6 +88,7 @@ Hi, I"m Nukecraft5419 I"m 19 years old and I"m a Full-Stack developer, have a lo
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img align="center" src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/projects/digital-clock-logo.png" width="100px"  height="100px"> |
 
+<br>
 <h2 align="center"><img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/development-skill.png" height="38px"/>Skills</h2>
 <p align="center">Take a look at my collection of programming skills.</p>
 
