@@ -1,6 +1,6 @@
 <img align="left" src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/logo/working-with-a-laptop.png" width="20%">
 <img align="right" src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/logo/console.png" width="20%">
-
+<link rel="stylesheet" href="style.css">
 # BIO
 
 Hi, I"m Nukecraft5419 I"m 19 years old and I"m a Full-Stack developer, have a look at some of my projects and skills and more.
@@ -9,7 +9,7 @@ Hi, I"m Nukecraft5419 I"m 19 years old and I"m a Full-Stack developer, have a lo
 <br>
 
 <p align="center">
-<ul>
+<ul id="ul_top_hypers">
 
 <li>
 <span style = "line-height: 20px">
