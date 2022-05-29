@@ -8,67 +8,67 @@ Hi, I"m Nukecraft5419 I"m 19 years old and I"m a Full-Stack developer, have a lo
 <br>
 <br>
 
-<p align="center">
+<div id="div_top_hypers">
 <ul id="ul_top_hypers">
 
 <li>
-<span style = "line-height: 20px">
+<a style = "line-height: 20px">
 <img src = "https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/analytics.png" height="24px" style="vertical-align: middle" /> Investor
-</span>
+</a>
 </li>
 <li>
-<span style = "line-height: 20px">
+<a style = "line-height: 20px" >
 <img src = "https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/bitcoin.png" height="24px" style="vertical-align: middle" /> Crypto
-</span>
+</a>
 </li>
 <li>
-<span style = "line-height: 20px">
+<a style = "line-height: 20px">
 <img src = "https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/game-controller.png" height="24px" style="vertical-align: middle"/> Gamer
-</span>
+</a>
 </li>
 <li>
-<span style = "line-height: 20px">
+<a style = "line-height: 20px">
 <img src = "https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/minecraft-skeleton.png" height="24px" style="vertical-align: middle" /> Development of mods and plugins for Minecraft
-</span>
+</a>
 </li>
 <li>
-<span style = "line-height: 20px">
+<a style = "line-height: 20px">
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/vegan-symbol.png" height="24px" style="vertical-align: middle"/> Vegan
-</span>
+</a>
 </li>
 <li>
-<span style = "line-height: 20px">
+<a style = "line-height: 20px">
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/freedom.png" height="24px" style="vertical-align: middle"/> Freedom
-</span>
+</a>
 </li>
 <li>
-<span style = "line-height: 20px">
+<a style = "line-height: 20px">
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/blockchain-new-logo.png" height="24px" style="vertical-align: middle"/> Metaverse
-</span>
+</a>
 </li>
 <li>
-<span style = "line-height: 20px">
+<a style = "line-height: 20px">
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ethereum.png" height="24px" style="vertical-align: middle"/> NFTs
-</span>
+</a>
 </li>
 <li>
-<span style = "line-height: 20px">
+<a style = "line-height: 20px">
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/open-source.png" height="24px" style="vertical-align: middle"/> Open Source
-</span>
+</a>
 </li>
 <li>
-<span style = "line-height: 20px">
+<a style = "line-height: 20px">
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/security-lock.png" height="24px" style="vertical-align: middle"/>Security
-</span>
+</a>
 </li>
 <li>
-<span style = "line-height: 20px">
+<a style = "line-height: 20px">
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/privacy.png" height="24px" style="vertical-align: middle"/> Privacy
-</span>
+</a>
 </li>
-<li><span style = "line-height: 20px">
+<li><a style = "line-height: 20px">
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/cloud.png" height="24px" style="vertical-align: middle"/> Networking
-</span>
+</a>
 </li>
 <li>
 <span style = "line-height: 20px">
@@ -76,7 +76,7 @@ Hi, I"m Nukecraft5419 I"m 19 years old and I"m a Full-Stack developer, have a lo
 </span>
 </li>
 </ul>
-</p>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=55A630&center=true&vCenter=true&width=820&height=120&lines=Coding+for+a+better+and+free+future+for+all.+%F0%9F%92%BB)](https://git.io/typing-svg)
 
