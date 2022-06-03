@@ -1,6 +1,8 @@
 <img align="left" src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/logo/working-with-a-laptop.png" width="20%">
 <img align="right" src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/logo/console.png" width="20%">
+<head>
 <link rel="stylesheet" href="style.css">
+</head>
 
 # BIO
 
