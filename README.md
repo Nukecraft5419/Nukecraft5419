@@ -92,7 +92,7 @@ Hi, I"m Nukecraft5419 I"m 19 years old and I"m a Full-Stack developer, have a lo
 <br>
 
 <h2 align="center">Credits</h2>
-<p align="center">Icone da Icons8.</p>
+<p align="center">Icons from Icons8.</p>
 
 <br>
 <h2 align="center"><img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/push-pin.png" height="38px"/>Pinned Repositories</h2>
