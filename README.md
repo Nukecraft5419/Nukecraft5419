@@ -74,7 +74,6 @@ Hi, I"m Nukecraft5419 I"m 19 years old and I"m a Full-Stack developer, have a lo
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/trello.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/slack-new.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/figma.png" height="64px"/>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/lunacy.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/procreate.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/davinci-resolve.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ubuntu.png" height="64px"/>
