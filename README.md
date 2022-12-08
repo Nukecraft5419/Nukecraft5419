@@ -48,10 +48,6 @@ Hi, I"m Nukecraft5419 I"m 19 years old and I"m a Full-Stack developer, have a lo
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/bootstrap.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/javascript.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/typescript.png" height="64px"/>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/php.png" height="64px"/>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/sql.png" height="64px"/>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/redis.png" height="64px"/>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/graphql.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/cloudflare.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/mongodb.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/mariadb.png" height="64px"/>
@@ -62,8 +58,12 @@ Hi, I"m Nukecraft5419 I"m 19 years old and I"m a Full-Stack developer, have a lo
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/npm.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/nodejs.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/react.png" height="64px"/>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/unreal-engine.png" height="64px"/>
+<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/php.png" height="64px"/>
+<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/sql.png" height="64px"/>
+<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/redis.png" height="64px"/>
+<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/graphql.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/blender.png" height="64px"/>
+<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/unreal-engine.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/github.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/git.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/docker.png" height="64px"/>
