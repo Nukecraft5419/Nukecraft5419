@@ -12,7 +12,11 @@
   text-decoration: underline;
 }
 
-#logo {
+footer {
+  text-align: center;
+}
+
+#logo-images {
   margin-top: 400px;
   margin-bottom: 200px;
   width: 400px;
