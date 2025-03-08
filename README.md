@@ -75,9 +75,13 @@
 
 <h2 align="center">📝 Credits</h2>
 
-<p href="https://github.com/Sammwyy" align="center">Sammwyy</p>
-<p href="https://github.com/7oSkaaa" align="center">Ahmed Hossam</p>
-<p href="https://github.com/antonkomarev" align="center">Anton Komarev</p>
+<p align="center">
+<a href="https://github.com/Sammwyy" target="_blank" align="center">Sammwyy</a>
+<br>
+<a href="https://github.com/7oSkaaa" target="_blank" align="center">Ahmed Hossam</a>
+<br>
+<a href="https://github.com/antonkomarev" target="_blank" align="center">Anton Komarev</a>
+</p>
 
 <br>
 <h2 align="center"><img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/push-pin.png" height="38px"/>Pinned Repositories</h2>
