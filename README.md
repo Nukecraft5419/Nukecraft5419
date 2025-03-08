@@ -1,15 +1,17 @@
 <h1 align="center">Hi , I'm Nukecraft5419 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=6000&pause=1000&color=0BFF00&center=true&vCenter=true&width=820&height=120&lines=Code+for+a+better+and+free+future+for+all." alt="Typing SVG" /></a>
-
-
-<br>
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=nukecraft5419&color=blue&style=for-the-badge&label=PROFILE+VIEWS"/>
-
 </p>
 
+<hr/>
+
+ 
+<br/>
 
 <h2 align="center">☕ Statistics</h2>
 
@@ -20,17 +22,14 @@
 </p>
 
 <h2 align="center">🧑🏻‍💻 Projects</h2>
-
 <p align="center">Take a look at my most important projects.</p>
 
 |                                <a href="https://github.com/Nukecraft5419/DigitalClock" target="_blank">**Digital Clock**</a>                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img align="center" src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/projects/digital-clock-logo.png" width="100px"  height="100px"> |
-
 <br/>
 
 <h2 align="center">📚 My Skills</h2>
-
 <p align="center">Take a look at my collection of programming skills.</p>
 
 <p align="center">
@@ -70,7 +69,6 @@
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/procreate.png" height="64px"/>
 <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/ubuntu.png" height="64px"/>
 </p>
-
 <br>
 
 <h2 align="center">📝 Credits</h2>
@@ -83,6 +81,7 @@
 <a href="https://github.com/antonkomarev" target="_blank" align="center">Anton Komarev</a>
 </p>
 
-<h2 align="center">📍 Pinned Repositories</h2>
+<br/>
 
+<h2 align="center">📍 Pinned Repositories</h2>
 <p align="center">Take a look at my most important repositories.</p>
