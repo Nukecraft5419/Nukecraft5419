@@ -27,8 +27,10 @@
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img align="center" src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/projects/digital-clock-logo.png" width="100px"  height="100px"> |
 
-<br>
-<h2 align="center"><img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/development-skill.png" height="38px"/>Skills</h2>
+<br/>
+
+<h2 align="center">📚 My Skills</h2>
+
 <p align="center">Take a look at my collection of programming skills.</p>
 
 <p align="center">
