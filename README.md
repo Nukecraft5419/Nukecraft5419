@@ -83,6 +83,6 @@
 <a href="https://github.com/antonkomarev" target="_blank" align="center">Anton Komarev</a>
 </p>
 
-<br>
-<h2 align="center"><img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/push-pin.png" height="38px"/>Pinned Repositories</h2>
+<h2 align="center">📍 Pinned Repositories</h2>
+
 <p align="center">Take a look at my most important repositories.</p>
