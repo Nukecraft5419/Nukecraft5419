@@ -5,8 +5,8 @@
 
 <br>
 
-<p align="center"> 
-![](https://komarev.com/ghpvc/?username=nukecraft5419&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nukecraft5419&color=blue&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </p>
 
