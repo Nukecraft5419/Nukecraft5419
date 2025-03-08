@@ -19,7 +19,8 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=nukecraft5419&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/project.png" height="38px"/>Projects</h2>
+<h2 align="center">🧑🏻‍💻 Projects</h2>
+
 <p align="center">Take a look at my most important projects.</p>
 
 |                                <a href="https://github.com/Nukecraft5419/DigitalClock" target="_blank">**Digital Clock**</a>                                |
