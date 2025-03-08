@@ -10,6 +10,23 @@
 
 <hr/>
 
+<img align='right' src='https://octodex.github.com/images/jetpacktocat.png' width='25%'>
+
+
+public class Nukecraft5419 extends JavaPlugin {
+
+  public static Nukecraft5419 instance;
+
+  public void onEnable() {
+      
+   * 👂 `My name is`: **Nukecraft5419**,
+   * ⚡ `I'm`: **22 years old**,
+   *  🌱 `I’m currently learning`: **Rust, Go & Assembly**,
+   * ❤️ `I love`: **100% Dark Chocolate**  ,
+   * 💻 `Favorite lang`: **Java, C++, Rust & TypeScript**
+
+  }
+}
  
 <br/>
 
