@@ -73,8 +73,11 @@
 
 <br>
 
-<h2 align="center">Credits</h2>
-<p align="center">Icons from Icons8.</p>
+<h2 align="center">📝 Credits</h2>
+
+<p href="https://github.com/Sammwyy" align="center">Sammwyy</p>
+<p href="https://github.com/7oSkaaa" align="center">Ahmed Hossam</p>
+<p href="https://github.com/antonkomarev" align="center">Anton Komarev</p>
 
 <br>
 <h2 align="center"><img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/push-pin.png" height="38px"/>Pinned Repositories</h2>
