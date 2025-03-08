@@ -53,7 +53,7 @@ public class Nukecraft5419 extends JavaPlugin {
 
 <p align="center">
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3Abash&type=code"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Ajava&type=code"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Ajava&type=code"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC&type=code"><img alt="C" src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC%2B%2B+&type=code"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC%23+&type=code"><img alt="C#" src="https://img.shields.io/badge/C%23-239122.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
