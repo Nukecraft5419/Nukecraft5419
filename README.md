@@ -1,29 +1,15 @@
-<img align="left" src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/logo/working-with-a-laptop.png" width="20%">
-<img align="right" src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/logo/console.png" width="20%">
+<h1 align="center">Hi , I'm Nukecraft5419 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-# BIO
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=6000&pause=1000&color=0BFF00&center=true&vCenter=true&width=820&height=120&lines=Code+for+a+better+and+free+future+for+all." alt="Typing SVG" /></a>
 
-Hi, I"m Nukecraft5419 I"m 19 years old and I"m a Full-Stack developer, have a look at some of my projects and skills and more.
 
 <br>
-<br>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/analytics.png" height="24px"/><a style="line-height: 20px">Investor</a>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/bitcoin.png" height="24px"/> <a style="line-height: 20px">Crypto</a>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/game-controller.png" height="24px"/><a style="line-height: 20px">Gamer</a>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/minecraft-skeleton.png" height="24px"/><a style="line-height: 20px">Development of mods and plugins for Minecraft</a>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/vegan-symbol.png" height="24px"/> <a style="line-height: 20px">Vegan</a>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/freedom.png" height="24px"/><a style="line-height: 20px"> Freedom</a>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/blockchain-new-logo.png" height="24px"/><a style="line-height: 20px">Metaverse</a>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/open-source.png" height="24px"/><a style="line-height: 20px">Open Source</a>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/security-lock.png" height="24px"/><a style="line-height: 20px">Security</a>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/privacy.png" height="24px"/><a style="line-height: 20px">Privacy</a>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/cloud.png" height="24px"/><a style="line-height: 20px">Networking</a>
-<img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/laptop.png" height="24px"/><a style="line-height: 20px">FullStack.</a>
+<p align="center"> 
+![](https://komarev.com/ghpvc/?username=nukecraft5419&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=55A630&center=true&vCenter=true&width=820&height=120&lines=Coding+for+a+better+and+free+future+for+all.+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/project.png" height="38px"/>Projects</h2>
 <p align="center">Take a look at my most important projects.</p>
