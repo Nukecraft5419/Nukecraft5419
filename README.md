@@ -125,6 +125,7 @@ public class Nukecraft5419 extends JavaPlugin {
 <a href=""><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href=""><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white"></a>
 <a href=""><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href=""><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a href=""><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
 <a href=""><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
 <a href=""><img alt="Caddy" src="https://img.shields.io/badge/Caddy-0B0C20.svg?style=for-the-badge&logo=caddy&logoColor=white"></a>
