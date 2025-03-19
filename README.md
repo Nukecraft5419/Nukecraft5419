@@ -21,7 +21,7 @@ public class Nukecraft5419 extends JavaPlugin {
       
    * 👂 `My name is`: **Nukecraft5419**,
    * ⚡ `I'm`: **22 years old**,
-   *  🌱 `I’m currently learning`: **Rust, Go & Assembly**,
+   *  🌱 `I’m currently learning`: **Rust, Vite, Lua, GDScript, Go & Assembly**,
    * ❤️ `I love`: **100% Dark Chocolate**  ,
    * 💻 `Favorite lang`: **Java, C++, Rust & TypeScript**
 
