@@ -71,6 +71,8 @@ public class Nukecraft5419 extends JavaPlugin {
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AYAML+&type=code"><img alt="YAML" src="https://img.shields.io/badge/YAML-000000.svg?style=for-the-badge&logo=yaml&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATOML+&type=code"><img alt="TOML" src="https://img.shields.io/badge/TOML-000000.svg?style=for-the-badge&logo=toml&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3ARust+&type=code"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ALua+&type=code"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AGDScript+&type=code"><img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white"></a>
 </p>
 
 <h4 align="center">📚 Frameworks and Libraries</h4>
@@ -94,6 +96,7 @@ public class Nukecraft5419 extends JavaPlugin {
 <a href=""><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJavaScript+&type=code"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AVue+&type=code"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=nuxt&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATypeScript+&type=code"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></a>
 </p>
 
 <h4 align="center">⚙ Software</h4>
