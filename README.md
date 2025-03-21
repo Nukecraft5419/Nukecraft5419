@@ -52,25 +52,26 @@ public class Nukecraft5419 extends JavaPlugin {
 <h4 align="center">💻 Programming languages (and html)</h4>
 
 <p align="center">
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Abash&type=code"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Ajava&type=code"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC&type=code"><img alt="C" src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC%2B%2B+&type=code"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Abash&type=code"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Ajava&type=code"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-b07219.svg?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC&type=code"><img alt="C" src="https://img.shields.io/badge/C-000000.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC%2B%2B+&type=code"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC%23+&type=code"><img alt="C#" src="https://img.shields.io/badge/C%23-239122.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3APython+&type=code"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3Ahtml+&type=code"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Acss+&type=code"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ASCSS&type=code"><img alt="SCSS" src="https://img.shields.io/badge/Scss-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Amarkdown+&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Acss+&type=code"><img alt="CSS" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ASCSS&type=code"><img alt="SCSS" src="https://img.shields.io/badge/Scss-c6538c.svg?style=for-the-badge&logo=sass&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Amarkdown+&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-083fa1.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJavaScript+&type=code"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATypeScript+&type=code"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3Aphp+&type=code"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3Asql+&type=code"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3Axml+&type=code"><img alt="XML" src="https://img.shields.io/badge/XML-E34F26.svg?style=for-the-badge&logo=xml&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3Ajson+&type=code"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AYAML+&type=code"><img alt="YAML" src="https://img.shields.io/badge/YAML-000000.svg?style=for-the-badge&logo=yaml&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATOML+&type=code"><img alt="TOML" src="https://img.shields.io/badge/TOML-000000.svg?style=for-the-badge&logo=toml&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ARust+&type=code"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AYAML+&type=code"><img alt="YAML" src="https://img.shields.io/badge/YAML-cb171e.svg?style=for-the-badge&logo=yaml&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATOML+&type=code"><img alt="TOML" src="https://img.shields.io/badge/TOML-9c4221.svg?style=for-the-badge&logo=toml&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Ajson+&type=code"><img alt="HOCON" src="https://img.shields.io/badge/HOCON-9ff8ee?style=for-the-badge&logo=json&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ARust+&type=code"><img alt="Rust" src="https://img.shields.io/badge/Rust-dea584.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3ALua+&type=code"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AGDScript+&type=code"><img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white"></a>
 </p>
