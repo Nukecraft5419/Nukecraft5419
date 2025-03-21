@@ -52,6 +52,7 @@ public class Nukecraft5419 extends JavaPlugin {
 <h4 align="center">💻 Programming languages (and html)</h4>
 
 <p align="center">
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AAssembly+&type=code"><img alt="Assembly" src="https://img.shields.io/badge/Assembly-6E4C13.svg?style=for-the-badge&logo=amazonec2&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3Abash&type=code"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3Ajava&type=code"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-b07219.svg?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC&type=code"><img alt="C" src="https://img.shields.io/badge/C-000000.svg?style=for-the-badge&logo=c&logoColor=white"></a>
