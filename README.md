@@ -68,8 +68,8 @@ public class Nukecraft5419 extends JavaPlugin {
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJavaScript+&type=code"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATypeScript+&type=code"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3APHP+&type=code"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ASQL+&type=code"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AXML&type=code"><img alt="XML" src="https://img.shields.io/badge/XML-E34F26.svg?style=for-the-badge&logo=xml&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ASQL+&type=code"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-e38c00.svg?style=for-the-badge&logo=database&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AXML&type=code"><img alt="XML" src="https://img.shields.io/badge/XML-0060ac.svg?style=for-the-badge&logo=xml&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJSON&type=code"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AYAML+&type=code"><img alt="YAML" src="https://img.shields.io/badge/YAML-cb171e.svg?style=for-the-badge&logo=yaml&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATOML+&type=code"><img alt="TOML" src="https://img.shields.io/badge/TOML-9c4221.svg?style=for-the-badge&logo=toml&logoColor=white"></a>
