@@ -55,25 +55,25 @@ public class Nukecraft5419 extends JavaPlugin {
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AAssembly+&type=code"><img alt="Assembly" src="https://img.shields.io/badge/Assembly-6E4C13.svg?style=for-the-badge&logo=amazonec2&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3Abash&type=code"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AMakefile+&type=code"><img alt="Makefile" src="https://img.shields.io/badge/Makefile-427819.svg?style=for-the-badge&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Ajava&type=code"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-b07219.svg?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJava+&type=code"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-b07219.svg?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC&type=code"><img alt="C" src="https://img.shields.io/badge/C-000000.svg?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC%2B%2B+&type=code"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC%23+&type=code"><img alt="C#" src="https://img.shields.io/badge/C%23-239122.svg?style=for-the-badge&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3APython+&type=code"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Ahtml+&type=code"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Acss+&type=code"><img alt="CSS" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AHTML+&type=code"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ACSS+&type=code"><img alt="CSS" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3ASCSS&type=code"><img alt="SCSS" src="https://img.shields.io/badge/Scss-c6538c.svg?style=for-the-badge&logo=sass&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Amarkdown+&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-083fa1.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AMarkdown+&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-083fa1.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AMDX&type=code"><img alt="MDX" src="https://img.shields.io/badge/MDX-fcb32c.svg?style=for-the-badge&logo=mdx&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJavaScript+&type=code"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATypeScript+&type=code"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Aphp+&type=code"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Asql+&type=code"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Axml+&type=code"><img alt="XML" src="https://img.shields.io/badge/XML-E34F26.svg?style=for-the-badge&logo=xml&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Ajson+&type=code"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3APHP+&type=code"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ASQL+&type=code"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AXML&type=code"><img alt="XML" src="https://img.shields.io/badge/XML-E34F26.svg?style=for-the-badge&logo=xml&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJSON&type=code"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AYAML+&type=code"><img alt="YAML" src="https://img.shields.io/badge/YAML-cb171e.svg?style=for-the-badge&logo=yaml&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATOML+&type=code"><img alt="TOML" src="https://img.shields.io/badge/TOML-9c4221.svg?style=for-the-badge&logo=toml&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Ajson+&type=code"><img alt="HOCON" src="https://img.shields.io/badge/HOCON-9ff8ee?style=for-the-badge&logo=json&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJSON&type=code"><img alt="HOCON" src="https://img.shields.io/badge/HOCON-9ff8ee?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3ARust+&type=code"><img alt="Rust" src="https://img.shields.io/badge/Rust-dea584.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3ALua+&type=code"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AGDScript+&type=code"><img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white"></a>
@@ -106,37 +106,37 @@ public class Nukecraft5419 extends JavaPlugin {
 <h4 align="center">⚙ Software</h4>
 
 <p align="center">
-<a href=""><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=apache&logoColor=white"></a>
-<a href=""><img alt="Apache Maven" src="https://img.shields.io/badge/Maven-C71E5A.svg?style=for-the-badge&logo=apache-maven&logoColor=white"></a>
-<a href=""><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white"></a>
-<a href=""><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-<a href=""><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172.svg?style=for-the-badge&logo=fedora&logoColor=white"></a>
-<a href=""><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-171F83.svg?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
-<a href=""><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href=""><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
-<a href=""><img alt="Caddy" src="https://img.shields.io/badge/Caddy-0B0C20.svg?style=for-the-badge&logo=caddy&logoColor=white"></a>
-<a href=""><img alt="OBS" src="https://img.shields.io/badge/OBS-302E31.svg?style=for-the-badge&logo=obs-studio&logoColor=white"></a>
-<a href=""><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logoColor=white"></a>
-<a href=""><img alt="Blender" src="https://img.shields.io/badge/Blender-F5793A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
-<a href=""><img alt="Godot Engine" src="https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white"></a>
-<a href=""><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href=""><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
-<a href=""><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+<a href="https://www.apache.org/"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=apache&logoColor=white"></a>
+<a href="https://maven.apache.org/"><img alt="Apache Maven" src="https://img.shields.io/badge/Maven-C71E5A.svg?style=for-the-badge&logo=apache-maven&logoColor=white"></a>
+<a href="https://gradle.org/"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white"></a>
+<a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+<a href="https://fedoraproject.org/"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172.svg?style=for-the-badge&logo=fedora&logoColor=white"></a>
+<a href="https://archlinux.org/"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-171F83.svg?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
+<a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://nginx.org/"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
+<a href="https://caddyserver.com/"><img alt="Caddy" src="https://img.shields.io/badge/Caddy-0B0C20.svg?style=for-the-badge&logo=caddy&logoColor=white"></a>
+<a href="https://obsproject.com/"><img alt="OBS" src="https://img.shields.io/badge/OBS-302E31.svg?style=for-the-badge&logo=obs-studio&logoColor=white"></a>
+<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logoColor=white"></a>
+<a href="https://www.blender.org/"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5793A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
+<a href="https://godotengine.org/"><img alt="Godot Engine" src="https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white"></a>
+<a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
 </p>
 
 <h4 align="center">☁ Cloud and Providers</h4>
 
 <p align="center">
-<a href=""><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white"></a>
-<a href=""><img alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href=""><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href=""><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white"></a>
-<a href=""><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href=""><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-<a href=""><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
-<a href=""><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
-<a href=""><img alt="Caddy" src="https://img.shields.io/badge/Caddy-0B0C20.svg?style=for-the-badge&logo=caddy&logoColor=white"></a>
-<a href=""><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://www.cloudflare.com/"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white"></a>
+<a href="https://pages.github.com/"><img alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="https://mariadb.org/"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white"></a>
+<a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
+<a href="https://nginx.org/"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
+<a href="https://caddyserver.com/"><img alt="Caddy" src="https://img.shields.io/badge/Caddy-0B0C20.svg?style=for-the-badge&logo=caddy&logoColor=white"></a>
+<a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 <br/>
