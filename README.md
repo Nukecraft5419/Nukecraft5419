@@ -58,7 +58,7 @@ public class Nukecraft5419 extends JavaPlugin {
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3Ajava&type=code"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-b07219.svg?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC&type=code"><img alt="C" src="https://img.shields.io/badge/C-000000.svg?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC%2B%2B+&type=code"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC%23+&type=code"><img alt="C#" src="https://img.shields.io/badge/C%23-239122.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC%23+&type=code"><img alt="C#" src="https://img.shields.io/badge/C%23-239122.svg?style=for-the-badge&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3APython+&type=code"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3Ahtml+&type=code"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3Acss+&type=code"><img alt="CSS" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -95,7 +95,7 @@ public class Nukecraft5419 extends JavaPlugin {
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AVue+&type=code"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATypeScript+&type=code"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATypeScript+&type=code"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJavaScript+&type=code"><img alt="Particles.js" src="https://img.shields.io/badge/Particles.js-000000.svg?style=for-the-badge&logo=particles.js&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJavaScript+&type=code"><img alt="Particles.js" src="https://img.shields.io/badge/Particles.js-000000.svg?style=for-the-badge&logoColor=white"></a>
 <a href=""><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJavaScript+&type=code"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AVue+&type=code"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=nuxt&logoColor=white"></a>
@@ -115,7 +115,7 @@ public class Nukecraft5419 extends JavaPlugin {
 <a href=""><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
 <a href=""><img alt="Caddy" src="https://img.shields.io/badge/Caddy-0B0C20.svg?style=for-the-badge&logo=caddy&logoColor=white"></a>
 <a href=""><img alt="OBS" src="https://img.shields.io/badge/OBS-302E31.svg?style=for-the-badge&logo=obs-studio&logoColor=white"></a>
-<a href=""><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+<a href=""><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logoColor=white"></a>
 <a href=""><img alt="Blender" src="https://img.shields.io/badge/Blender-F5793A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
 <a href=""><img alt="Godot Engine" src="https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white"></a>
 <a href=""><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
