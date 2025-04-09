@@ -146,8 +146,6 @@ public class Nukecraft5419 extends JavaPlugin {
 <p align="center">
 <a href="https://github.com/Sammwyy" target="_blank" align="center">Sammwyy</a>
 <br>
-<a href="https://github.com/7oSkaaa" target="_blank" align="center">Ahmed Hossam</a>
-<br>
 <a href="https://github.com/antonkomarev" target="_blank" align="center">Anton Komarev</a>
 </p>
 
