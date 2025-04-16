@@ -38,6 +38,10 @@ public class Nukecraft5419 extends JavaPlugin {
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=nukecraft5419&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=nukecraft5419&theme=onedark"/>
+</p>
+
 <h2 align="center">🧑🏻‍💻 Projects</h2>
 <p align="center">Take a look at my most important projects.</p>
 
