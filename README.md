@@ -45,9 +45,9 @@ public class Nukecraft5419 extends JavaPlugin {
 <h2 align="center">🧑🏻‍💻 Projects</h2>
 <p align="center">Take a look at my most important projects.</p>
 
-|                                <a href="https://github.com/Nukecraft5419/DigitalClock" target="_blank">**Digital Clock**</a>                                |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img align="center" src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/projects/digital-clock-logo.png" width="100px"  height="100px"> |
+|                                           <a href="https://github.com/Nukecraft5419/DigitalClock" target="_blank">**Digital Clock**</a>                                            |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img align="center" src="https://raw.githubusercontent.com/Nukecraft5419/DigitalClock/refs/heads/main/src/digital_clock/img/digital-clock-logo.png" width="100px"  height="100px"> |
 <br/>
 
 <h2 align="center">📚 My Skills</h2>
