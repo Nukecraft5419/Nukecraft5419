@@ -148,6 +148,12 @@ public class Nukecraft5419 extends JavaPlugin {
 <h2 align="center">📝 Credits</h2>
 
 <p align="center">
+<a href="https://github.com/Sammwyy" target="_blank" align="center">Sammwyy</a>
+<br>
+<a href="https://github.com/antonkomarev" target="_blank" align="center">Anton Komarev</a>
+</p>
+
+<p align="center">
 <a href="https://github.com/Sammwyy" target="_blank" align="center"><img alt="Sammwyy" src="https://custom-icon-badges.demolab.com/badge/Sammwyy-e4bf7a.svg?logo=sammwy&logoColor=white"></a>
 <br>
 <a href="https://github.com/antonkomarev" target="_blank" align="center"><img alt="Anton Komarev" src="https://custom-icon-badges.demolab.com/badge/Anton Komarev-e4bf7a.svg?logo=antonkomarev&logoColor=white"></a>
