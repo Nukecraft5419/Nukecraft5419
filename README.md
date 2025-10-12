@@ -45,9 +45,11 @@ public class Nukecraft5419 extends JavaPlugin {
 <h2 align="center">🧑🏻‍💻 Projects</h2>
 <p align="center">Take a look at my most important projects.</p>
 
-|                                           <a href="https://github.com/Nukecraft5419/DigitalClock" target="_blank">**Digital Clock**</a>                                            |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img align="center" src="https://raw.githubusercontent.com/Nukecraft5419/DigitalClock/refs/heads/main/src/digital_clock/img/digital-clock-logo.png" width="100px"  height="100px"> |
+|                                 **<a href="https://github.com/LifeMC-Studios/LifeMC" target="_blank">LifeMC</a>**                                 |                                           **<a href="https://github.com/Nukecraft5419/DigitalClock" target="_blank">Digital Clock</a>**                                            |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img align="center" src="https://raw.githubusercontent.com/LifeMC-Studios/LifeMC/main/assets/img/lifemc_logo.webp" width="100px"  height="100px"> | <img align="center" src="https://raw.githubusercontent.com/Nukecraft5419/DigitalClock/refs/heads/main/src/digital_clock/img/digital-clock-logo.png" width="100px"  height="100px"> |
+|                              <a href="https://github.com/LifeMC-Studios/LifeMC" target="_blank">Open Repository</a>                               |                                            <a href="https://github.com/Nukecraft5419/DigitalClock" target="_blank">Open Repository</a>                                             |
+
 <br/>
 
 <h2 align="center">📚 My Skills</h2>
