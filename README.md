@@ -12,22 +12,21 @@
 
 <img align='right' src='https://octodex.github.com/images/jetpacktocat.png' width='25%'>
 
-
 public class Nukecraft5419 extends JavaPlugin {
 
-  public static Nukecraft5419 instance;
+public static Nukecraft5419 instance;
 
-  public void onEnable() {
-      
-   * 👂 `My name is`: **Nukecraft5419**,
-   * ⚡ `I'm`: **22 years old**,
-   *  🌱 `I’m currently learning`: **Rust, Vite, Lua, GDScript, Go & Assembly**,
-   * ❤️ `I love`: **100% Dark Chocolate**  ,
-   * 💻 `Favorite lang`: **Java, C++, Rust & TypeScript**
+public void onEnable() {
 
-  }
+- 👂 `My name is`: **Nukecraft5419**,
+- ⚡ `I'm`: **22 years old**,
+- 🌱 `I’m currently learning`: **Rust, Vite, Lua, GDScript, Go & Assembly**,
+- ❤️ `I love`: **100% Dark Chocolate** ,
+- 💻 `Favorite lang`: **Java, C++, Rust & TypeScript**
+
 }
- 
+}
+
 <br/>
 
 <h2 align="center">☕ Statistics</h2>
@@ -52,7 +51,7 @@ public class Nukecraft5419 extends JavaPlugin {
 
 <br/>
 
-<h2 align="center">📚 My Skills</h2>
+<h2 align="center">🥷 My Skills</h2>
 <p align="center">Take a look at my collection of programming skills.</p>
 
 <h4 align="center">💻 Programming languages (and html)</h4>
@@ -146,6 +145,14 @@ public class Nukecraft5419 extends JavaPlugin {
 </p>
 
 <br/>
+
+<h2 align="center">📚 My Personal Library</h2>
+<p align="center">Take a look at my collection of books.</p>
+
+|                               **The Richest Man In Babylon**                                |
+| :-----------------------------------------------------------------------------------------: |
+| **<img src="https://m.media-amazon.com/images/I/71fNP8uQpFL._SL1499_.jpg" height="120px">** |
+|         **<a href="https://a.co/d/0cP03kjN" target="_blank">🛒 View on Amazon</a>**         |
 
 <h2 align="center">📝 Credits</h2>
 
