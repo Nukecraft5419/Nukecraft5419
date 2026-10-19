@@ -81,6 +81,7 @@ public void onEnable() {
 <a href="https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/Rust-dea584.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
 <a href="https://www.lua.org/"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
 <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/"><img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white"></a>
+<a href="https://webassembly.org/"><img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white"></a>
 </p>
 
 <h4 align="center">🖥️ Frontend Frameworks & Libraries</h4>
@@ -91,6 +92,11 @@ public void onEnable() {
 <a href="https://particles.js.org/"><img alt="Particles.js" src="https://img.shields.io/badge/Particles.js-000000.svg?style=for-the-badge&logoColor=white"></a>
 <a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"></a>
 <a href="https://nuxt.com/"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=nuxt&logoColor=white"></a>
+<a href="https://www.chartjs.org/"><img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white"></a>
+<a href="https://www.solidjs.com/"><img alt="SolidJS" src="https://img.shields.io/badge/SolidJS-2C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white"></a>
+<a href="https://astro.build/"><img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white"></a>
+<a href="https://svelte.dev/"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white"></a>
+<a href="https://starlight.astro.build/"><img alt="Starlight" src="https://img.shields.io/badge/Starlight-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white"></a>
 </p>
 
 <h4 align="center">🎨 UI Components & Styling</h4>
@@ -100,6 +106,8 @@ public void onEnable() {
 <a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href="https://bulma.io/"><img alt="Bulma" src="https://img.shields.io/badge/Bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"></a>
 <a href="https://chakra-ui.com/"><img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white"></a>
+<a href="https://ui.shadcn.com/"><img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white"></a>
+<a href="https://mui.com/"><img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white"></a>
 </p>
 
 <h4 align="center">🔌 Backend Frameworks & APIs</h4>
@@ -147,6 +155,7 @@ public void onEnable() {
 <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+<a href="https://webkit.org/"><img alt="WebKit" src="https://img.shields.io/badge/WebKit-006CFF.svg?style=for-the-badge&logo=safari&logoColor=white"></a>
 </p>
 
 <h4 align="center">☁ Cloud, Databases & Hosting</h4>
