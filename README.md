@@ -58,54 +58,54 @@ public void onEnable() {
 
 <p align="center">
 <a href="https://github.com/search?q=user%3ANukecraft5419+language%3AAssembly+&type=code"><img alt="Assembly" src="https://img.shields.io/badge/Assembly-6E4C13.svg?style=for-the-badge&logo=amazonec2&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Abash&type=code"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AMakefile+&type=code"><img alt="Makefile" src="https://img.shields.io/badge/Makefile-427819.svg?style=for-the-badge&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJava+&type=code"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-b07219.svg?style=for-the-badge&logo=java&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC&type=code"><img alt="C" src="https://img.shields.io/badge/C-000000.svg?style=for-the-badge&logo=c&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC%2B%2B+&type=code"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AC%23+&type=code"><img alt="C#" src="https://img.shields.io/badge/C%23-239122.svg?style=for-the-badge&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3APython+&type=code"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AHTML+&type=code"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ACSS+&type=code"><img alt="CSS" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ASCSS&type=code"><img alt="SCSS" src="https://img.shields.io/badge/Scss-c6538c.svg?style=for-the-badge&logo=sass&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AMarkdown+&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-083fa1.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AMDX&type=code"><img alt="MDX" src="https://img.shields.io/badge/MDX-fcb32c.svg?style=for-the-badge&logo=mdx&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJavaScript+&type=code"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATypeScript+&type=code"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3APHP+&type=code"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ASQL+&type=code"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-e38c00.svg?style=for-the-badge&logo=database&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AXML&type=code"><img alt="XML" src="https://img.shields.io/badge/XML-0060ac.svg?style=for-the-badge&logo=xml&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJSON&type=code"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AYAML+&type=code"><img alt="YAML" src="https://img.shields.io/badge/YAML-cb171e.svg?style=for-the-badge&logo=yaml&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATOML+&type=code"><img alt="TOML" src="https://img.shields.io/badge/TOML-9c4221.svg?style=for-the-badge&logo=toml&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJSON&type=code"><img alt="HOCON" src="https://img.shields.io/badge/HOCON-9ff8ee?style=for-the-badge&logo=json&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ARust+&type=code"><img alt="Rust" src="https://img.shields.io/badge/Rust-dea584.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ALua+&type=code"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AGDScript+&type=code"><img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white"></a>
+<a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+<a href="https://www.gnu.org/software/make/"><img alt="Makefile" src="https://img.shields.io/badge/Makefile-427819.svg?style=for-the-badge&logoColor=white"></a>
+<a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-b07219.svg?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://en.cppreference.com/w/c/language"><img alt="C" src="https://img.shields.io/badge/C-000000.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="https://isocpp.org/"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C%23-239122.svg?style=for-the-badge&logoColor=white"></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://sass-lang.com/"><img alt="SCSS" src="https://img.shields.io/badge/Scss-c6538c.svg?style=for-the-badge&logo=sass&logoColor=white"></a>
+<a href="https://daringfireball.net/projects/markdown/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-083fa1.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+<a href="https://mdxjs.com/"><img alt="MDX" src="https://img.shields.io/badge/MDX-fcb32c.svg?style=for-the-badge&logo=mdx&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"></a>
+<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href="https://sql.org/"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-e38c00.svg?style=for-the-badge&logo=database&logoColor=white"></a>
+<a href="https://www.w3.org/XML/"><img alt="XML" src="https://img.shields.io/badge/XML-0060ac.svg?style=for-the-badge&logo=xml&logoColor=white"></a>
+<a href="https://www.json.org/"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
+<a href="https://yaml.org/"><img alt="YAML" src="https://img.shields.io/badge/YAML-cb171e.svg?style=for-the-badge&logo=yaml&logoColor=white"></a>
+<a href="https://toml.io/"><img alt="TOML" src="https://img.shields.io/badge/TOML-9c4221.svg?style=for-the-badge&logo=toml&logoColor=white"></a>
+<a href="https://github.com/lightbend/config"><img alt="HOCON" src="https://img.shields.io/badge/HOCON-9ff8ee?style=for-the-badge&logo=json&logoColor=white"></a>
+<a href="https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/Rust-dea584.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
+<a href="https://www.lua.org/"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
+<a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/"><img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white"></a>
 </p>
 
 <h4 align="center">📚 Frameworks and Libraries</h4>
 
 <p align="center">
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Abootstrap+&type=code"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Atailwind+&type=code"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Abulma+&type=code"><img alt="Bulma" src="https://img.shields.io/badge/Bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Achakra+&type=code"><img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3Aelectron+&type=code"><img alt="Electron" src="https://img.shields.io/badge/Electron-18305F.svg?style=for-the-badge&logo=electron&logoColor=white"></a>
-<a href=""><img alt="Tauri" src="https://img.shields.io/badge/Tauri-000000.svg?style=for-the-badge&logo=tauri&logoColor=white"></a>
-<a href=""><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white"></a>
-<a href=""><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white"></a>
-<a href=""><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
-<a href=""><img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
-<a href=""><img alt="PNPM" src="https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AVue+&type=code"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATypeScript+&type=code"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATypeScript+&type=code"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJavaScript+&type=code"><img alt="Particles.js" src="https://img.shields.io/badge/Particles.js-000000.svg?style=for-the-badge&logoColor=white"></a>
-<a href=""><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AJavaScript+&type=code"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3AVue+&type=code"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=nuxt&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ANukecraft5419+language%3ATypeScript+&type=code"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></a>
+<a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+<a href="https://bulma.io/"><img alt="Bulma" src="https://img.shields.io/badge/Bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"></a>
+<a href="https://chakra-ui.com/"><img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white"></a>
+<a href="https://www.electronjs.org/"><img alt="Electron" src="https://img.shields.io/badge/Electron-18305F.svg?style=for-the-badge&logo=electron&logoColor=white"></a>
+<a href="https://tauri.app/"><img alt="Tauri" src="https://img.shields.io/badge/Tauri-000000.svg?style=for-the-badge&logo=tauri&logoColor=white"></a>
+<a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white"></a>
+<a href="https://graphql.org/"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white"></a>
+<a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
+<a href="https://www.npmjs.com/"><img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
+<a href="https://pnpm.io/"><img alt="PNPM" src="https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white"></a>
+<a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"></a>
+<a href="https://nestjs.com/"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"></a>
+<a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white"></a>
+<a href="https://particles.js.org/"><img alt="Particles.js" src="https://img.shields.io/badge/Particles.js-000000.svg?style=for-the-badge&logoColor=white"></a>
+<a href="https://expressjs.com/"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white"></a>
+<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"></a>
+<a href="https://nuxt.com/"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=nuxt&logoColor=white"></a>
+<a href="https://vite.dev/"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></a>
 </p>
 
 <h4 align="center">⚙ Software</h4>
