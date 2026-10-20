@@ -32,22 +32,39 @@ public void onEnable() {
 <h2 align="center">☕ Statistics</h2>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=nukecraft5419&show_icons=true&count_private=true&theme=onedark&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nukecraft5419&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=nukecraft5419&theme=onedark&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src="https://github-stats-extended.vercel.app/api?username=nukecraft5419&show_icons=true&count_private=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nukecraft5419&layout=compact&hide_border=true&theme=catppuccin_mocha&bg_color=00000000&langs_count=6">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nukecraft5419&theme=catppuccin_mocha&hide_border=true&background=FFFFFF00">
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=nukecraft5419&theme=onedark"/>
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=nukecraft5419&theme=catppuccin_mocha"/>
 </p>
 
 <h2 align="center">🧑🏻‍💻 Projects</h2>
 <p align="center">Take a look at my most important projects.</p>
 
-|                                 **<a href="https://github.com/LifeMC-Studios/LifeMC" target="_blank">LifeMC</a>**                                 |                                           **<a href="https://github.com/Nukecraft5419/DigitalClock" target="_blank">Digital Clock</a>**                                            |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img align="center" src="https://raw.githubusercontent.com/LifeMC-Studios/LifeMC/main/assets/img/lifemc_logo.webp" width="100px"  height="100px"> | <img align="center" src="https://raw.githubusercontent.com/Nukecraft5419/DigitalClock/refs/heads/main/src/digital_clock/img/digital-clock-logo.png" width="100px"  height="100px"> |
-|                              <a href="https://github.com/LifeMC-Studios/LifeMC" target="_blank">Open Repository</a>                               |                                            <a href="https://github.com/Nukecraft5419/DigitalClock" target="_blank">Open Repository</a>                                             |
+<a href="https://github.com/Nukecraft5419/DigitalClock">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nukecraft5419&repo=DigitalClock&theme=catppuccin_mocha" />
+</a>
+<a href="https://github.com/LifeMC-Studios/LifeMC">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=LifeMC-Studios&repo=LifeMC&theme=catppuccin_mocha" />
+</a>
+<a href="https://github.com/Nukecraft5419/ExamplePlugin">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nukecraft5419&repo=ExamplePlugin&theme=catppuccin_mocha" />
+</a>
+<a href="https://github.com/Nukecraft5419/NukeLexicon">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nukecraft5419&repo=NukeLexicon&theme=catppuccin_mocha" />
+</a>
+<a href="https://github.com/Nukecraft5419/meta-template">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nukecraft5419&repo=meta-template&theme=catppuccin_mocha" />
+</a>
+<a href="https://github.com/Nukecraft5419/fastfetch">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nukecraft5419&repo=fastfetch&theme=catppuccin_mocha" />
+</a>
+<a href="https://github.com/Nukecraft5419/CraftStyle">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nukecraft5419&repo=CraftStyle&theme=catppuccin_mocha" />
+</a>
 
 <br/>
 
