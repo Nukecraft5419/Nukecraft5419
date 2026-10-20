@@ -72,7 +72,7 @@ public void onEnable() {
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"></a>
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
-<a href="https://sql.org/"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-e38c00.svg?style=for-the-badge&logo=database&logoColor=white"></a>
+<a href="https://www.postgresql.org/docs/current/sql.html"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-e38c00.svg?style=for-the-badge&logo=database&logoColor=white"></a>
 <a href="https://www.w3.org/XML/"><img alt="XML" src="https://img.shields.io/badge/XML-0060ac.svg?style=for-the-badge&logo=xml&logoColor=white"></a>
 <a href="https://www.json.org/"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://yaml.org/"><img alt="YAML" src="https://img.shields.io/badge/YAML-cb171e.svg?style=for-the-badge&logo=yaml&logoColor=white"></a>
@@ -80,8 +80,11 @@ public void onEnable() {
 <a href="https://github.com/lightbend/config"><img alt="HOCON" src="https://img.shields.io/badge/HOCON-9ff8ee?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/Rust-dea584.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
 <a href="https://www.lua.org/"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
+<a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
 <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/"><img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white"></a>
 <a href="https://webassembly.org/"><img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/BASIC"><img alt="BASIC" src="https://img.shields.io/badge/BASIC-000000.svg?style=for-the-badge"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/"><img alt="VB.NET" src="https://img.shields.io/badge/VB.NET-512BD4.svg?style=for-the-badge"></a>
 </p>
 
 <h4 align="center">🖥️ Frontend Frameworks & Libraries</h4>
@@ -89,7 +92,7 @@ public void onEnable() {
 <p align="center">
 <a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"></a>
 <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white"></a>
-<a href="https://particles.js.org/"><img alt="Particles.js" src="https://img.shields.io/badge/Particles.js-000000.svg?style=for-the-badge&logoColor=white"></a>
+<a href="https://vincentgarreau.com/particles.js/"><img alt="Particles.js" src="https://img.shields.io/badge/Particles.js-000000.svg?style=for-the-badge&logoColor=white"></a>
 <a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"></a>
 <a href="https://nuxt.com/"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=nuxt&logoColor=white"></a>
 <a href="https://www.chartjs.org/"><img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white"></a>
@@ -97,6 +100,7 @@ public void onEnable() {
 <a href="https://astro.build/"><img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white"></a>
 <a href="https://svelte.dev/"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white"></a>
 <a href="https://starlight.astro.build/"><img alt="Starlight" src="https://img.shields.io/badge/Starlight-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white"></a>
+<a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"></a>
 </p>
 
 <h4 align="center">🎨 UI Components & Styling</h4>
@@ -116,6 +120,8 @@ public void onEnable() {
 <a href="https://graphql.org/"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white"></a>
 <a href="https://nestjs.com/"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"></a>
 <a href="https://expressjs.com/"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white"></a>
+<a href="https://www.prisma.io/"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white"></a>
+<a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
 </p>
 
 <h4 align="center">📦 Runtimes, Package Managers & Build Tools</h4>
@@ -128,6 +134,9 @@ public void onEnable() {
 <a href="https://vite.dev/"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></a>
 <a href="https://maven.apache.org/"><img alt="Apache Maven" src="https://img.shields.io/badge/Maven-C71E5A.svg?style=for-the-badge&logo=apache-maven&logoColor=white"></a>
 <a href="https://gradle.org/"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white"></a>
+<a href="https://dotnet.microsoft.com/"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet"><img alt="dotnet CLI" src="https://img.shields.io/badge/dotnet%20CLI-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+<a href="https://bun.sh/"><img alt="Bun" src="https://img.shields.io/badge/Bun-FBF0DF.svg?style=for-the-badge&logo=bun&logoColor=000000"></a>
 </p>
 
 <h4 align="center">🎮 Desktop & Game Development</h4>
@@ -137,6 +146,8 @@ public void onEnable() {
 <a href="https://tauri.app/"><img alt="Tauri" src="https://img.shields.io/badge/Tauri-000000.svg?style=for-the-badge&logo=tauri&logoColor=white"></a>
 <a href="https://www.blender.org/"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5793A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
 <a href="https://godotengine.org/"><img alt="Godot Engine" src="https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white"></a>
+<a href="https://www.unrealengine.com/"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white"></a>
+<a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
 </p>
 
 <h4 align="center">⚙ Software, DevOps & Infrastructure</h4>
@@ -151,11 +162,16 @@ public void onEnable() {
 <a href="https://nginx.org/"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
 <a href="https://caddyserver.com/"><img alt="Caddy" src="https://img.shields.io/badge/Caddy-0B0C20.svg?style=for-the-badge&logo=caddy&logoColor=white"></a>
 <a href="https://obsproject.com/"><img alt="OBS" src="https://img.shields.io/badge/OBS-302E31.svg?style=for-the-badge&logo=obs-studio&logoColor=white"></a>
-<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logoColor=white"></a>
+<a href="https://zed.dev/"><img alt="Zed" src="https://img.shields.io/badge/Zed-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white"></a>
 <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
 <a href="https://webkit.org/"><img alt="WebKit" src="https://img.shields.io/badge/WebKit-006CFF.svg?style=for-the-badge&logo=safari&logoColor=white"></a>
+<a href="https://podman.io/"><img alt="Podman" src="https://img.shields.io/badge/Podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white"></a>
+<a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"></a>
+<a href="https://prometheus.io/"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white"></a>
+<a href="https://uptime.kuma.pet/"><img alt="Uptime Kuma" src="https://img.shields.io/badge/Uptime%20Kuma-5CDD8B.svg?style=for-the-badge&logo=uptimekuma&logoColor=white"></a>
+<a href="https://www.keycloak.org/"><img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-4D4D4D.svg?style=for-the-badge&logo=keycloak&logoColor=white"></a>
 </p>
 
 <h4 align="center">☁ Cloud, Databases & Hosting</h4>
