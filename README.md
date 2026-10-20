@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Nukecraft5419 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Nukecraft5419 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=6000&pause=1000&color=0BFF00&center=true&vCenter=true&width=820&height=120&lines=Code+for+a+better+and+free+future+for+all." alt="Typing SVG" /></a>
@@ -7,25 +7,35 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=nukecraft5419&color=blue&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
-
 <hr/>
-
 <img align='right' src='https://octodex.github.com/images/jetpacktocat.png' width='25%'>
 
+```java
+// ☕ A dream written in Java.
 public class Nukecraft5419 extends JavaPlugin {
 
-public static Nukecraft5419 instance;
+  public static Nukecraft5419 instance;
 
-public void onEnable() {
+  private final String name = "Nukecraft5419";
+  private final int age = 23;
+  private final String favoriteFood = "100% Dark Chocolate";
 
-- 👂 `My name is`: **Nukecraft5419**,
-- ⚡ `I'm`: **23 years old**,
-- 🌱 `I’m currently learning`: **Rust, Vite, Lua, GDScript, Go & Assembly**,
-- ❤️ `I love`: **100% Dark Chocolate** ,
-- 💻 `Favorite lang`: **Java, C++, Rust & TypeScript**
+  private final String[] currentlyLearning = {
+    "Rust", "Vite", "Lua",
+    "GDScript", "Go", "Assembly"
+  };
 
+  private final String[] favoriteLanguages = {
+    "Java", "C++", "Rust", "TypeScript"
+  };
+
+  @Override
+  public void onEnable() {
+    instance = this;
+    // Welcome to my profile!
+  }
 }
-}
+```
 
 <br/>
 
